@@ -69,25 +69,8 @@ public class ContactsPageTest extends TestBase{
 	
 	@AfterMethod
 	public void tearDown() {
+		//driver.close()
 		driver.quit();
 	}
-		
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 }
